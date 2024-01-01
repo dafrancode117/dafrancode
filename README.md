@@ -23,7 +23,6 @@
 <h3 align="center">Contacta conmigo:</h3>
 <p align="center">
 <a href="www.linkedin.com/in/daniel-franco-coila-corini-05356a1b6" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="30" width="30" /></a>
-
 <a href="https://www.instagram.com/dafran.code/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="kavee_dineth" height="30" width="30" /></a>
 </p>
 
