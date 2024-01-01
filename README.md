@@ -1,6 +1,6 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hola 👋, soy Daniel F. Coila Corini</h1>
-<h3 align="center">Desarrollador de Software apasionado por las tecnologías y la evolución de las mismas, especialmente por tecnologías Web y Móvil, también un gusto por la administración de servidores Linux</h3>
+<h3 align="center">Desarrollador de Software apasionado por las tecnologías y la evolución de las mismas, especialmente por tecnologías Web y Móvil, también un gusto por la administración de servidores Linux 🐧</h3>
 
 <table align="center">
 <tr border="none">
