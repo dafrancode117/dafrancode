@@ -35,25 +35,25 @@
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="20vw" align="center">
+      <td width="60vw" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="20vw" align="center">
+      <td width="60vw" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="20vw" align="center">
+      <td width="60vw" align="center">
         <span>Bootstrap</span><br><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
-      <td width="20vw" align="center">
+      <td width="60vw" align="center">
         <span>TailwindCSS</span><br><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
     </tr>
     <tr valign="top">
-      <td width="20vw" align="center">
+      <td width="60vw" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
