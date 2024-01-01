@@ -6,7 +6,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 Actualmente profundizando en tecnologías de Backend
+- 💻 Actualmente profundizando en tecnologías de Backend
 
 - 📧 Como comunicarse conmigo **frank117js@gmail.com**
 
