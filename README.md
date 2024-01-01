@@ -29,7 +29,7 @@
 
 <h3 align="center">Lenguajes y Tecnologias:</h3>
 <table align="center">
-  <tbody width="100%">
+  <tbody>
     <tr valign="top">
       <td width="20%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
