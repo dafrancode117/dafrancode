@@ -44,25 +44,29 @@
       </td>
       <td width="25%" align="center">
         <span>Bootstrap</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/boostrap.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>TailwindCSS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>TailwindCSS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
         <span>PHP</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Ubuntu Server</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/ubuntu.svg">
       </td>
     </tr>
     <tr valign="top">
