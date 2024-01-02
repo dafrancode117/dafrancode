@@ -59,19 +59,19 @@
       </td>
       <td width="20%" align="center">
         <span><i><b>Git</b><i></span><br><br><br>
-        <img height="70" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <img width="50" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="20%" align="center">
         <span><i><b>PHP</b><i></span><br><br><br>
-        <img height="70" src="https://cdn.svgporn.com/logos/php.svg">
+        <img width="50" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
       <td width="20%" align="center">
         <span><i><b>MySQL</b><i></span><br><br><br>
-        <img height="70" src="https://cdn.svgporn.com/logos/mysql.svg">
+        <img width="50" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
       <td width="20%" align="center">
         <span><i><b>Ubuntu Server</b><i></span><br><br><br>
-        <img height="70" src="https://cdn.svgporn.com/logos/ubuntu.svg">
+        <img width="50" src="https://cdn.svgporn.com/logos/ubuntu.svg">
       </td>
     </tr>
     <tr align="top">
