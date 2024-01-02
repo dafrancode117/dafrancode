@@ -40,41 +40,41 @@
         <img height="70" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="20%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <span><i><b>JavaScript</b><i></span><br><br><br>
         <img height="70" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="20%" align="center">
-        <span>Bootstrap</span><br><br><br>
+        <span><i><b>Bootstrap</b><i></span><br><br><br>
         <img height="70" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
       <td width="20%" align="center">
-        <span>TailwindCSS</span><br><br><br>
+        <span><i><b>TailwindCSS</b><i></span><br><br><br>
         <img height="70" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
     </tr>
     <tr align="top">
       <td width="20%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <span><i><b>VS Code</b><i></span><br><br><br>
         <img height="70" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="20%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
+        <span><i><b>Git</b><i></span><br><br><br>
         <img height="70" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="20%" align="center">
-        <span>PHP</span><br><br><br>
+        <span><i><b>PHP</b><i></span><br><br><br>
         <img height="70" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
       <td width="20%" align="center">
-        <span>MySQL</span><br><br><br>
+        <span><i><b>MySQL</b><i></span><br><br><br>
         <img height="70" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
       <td width="20%" align="center">
-        <span>Ubuntu Server</span><br><br><br>
+        <span><i><b>Ubuntu Server</b><i></span><br><br><br>
         <img height="70" src="https://cdn.svgporn.com/logos/ubuntu.svg">
       </td>
     </tr>
-    <tr valign="top">
+    <tr align="top">
     </tr>
   </tbody>
 </table>
