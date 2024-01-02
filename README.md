@@ -6,7 +6,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 💻 Actualmente profundizando en tecnologías de Backend
+- 💻 Actualmente profundizando en tecnologías de Backend con PHP
 
 - 📧 Como comunicarse conmigo **frank117js@gmail.com**
 
@@ -33,45 +33,45 @@
     <tr valign="top">
       <td width="20%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="70px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <img height="70" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="20%" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="70px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <img height="70" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="20%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="70px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="70" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="20%" align="center">
         <span>Bootstrap</span><br><br><br>
-        <img height="70px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+        <img height="70" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
       <td width="20%" align="center">
         <span>TailwindCSS</span><br><br><br>
-        <img height="70px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+        <img height="70" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="70px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <img height="70" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="20%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="70px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <img height="70" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="20%" align="center">
         <span>PHP</span><br><br><br>
-        <img height="70px" src="https://cdn.svgporn.com/logos/php.svg">
+        <img height="70" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
       <td width="20%" align="center">
         <span>MySQL</span><br><br><br>
-        <img height="70px" src="https://cdn.svgporn.com/logos/mysql.svg">
+        <img height="70" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
       <td width="20%" align="center">
         <span>Ubuntu Server</span><br><br><br>
-        <img height="70%" src="https://cdn.svgporn.com/logos/ubuntu.svg">
+        <img height="70" src="https://cdn.svgporn.com/logos/ubuntu.svg">
       </td>
     </tr>
     <tr valign="top">
