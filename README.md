@@ -30,13 +30,13 @@
 <h3 align="center">Lenguajes y Tecnologias:</h3>
 <table align="center">
   <tbody>
-    <tr valign="top">
+    <tr align="top">
       <td width="20%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+        <span><i><b>HTML5</b><i></span><br><br><br>
         <img height="70" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="20%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+        <span><i><b>CSS3</b><i></span><br><br><br>
         <img height="70" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="20%" align="center">
@@ -52,7 +52,7 @@
         <img height="70" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
     </tr>
-    <tr valign="top">
+    <tr align="top">
       <td width="20%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="70" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
