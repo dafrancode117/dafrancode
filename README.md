@@ -31,7 +31,7 @@
 <table align="center">
   <tbody>
     <tr align="top">
-      <td width="50%" align="center">
+      <td width="10%" align="center">
         <span><i><b>HTML5</b><i></span><br><br><br>
         <img width="50" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
