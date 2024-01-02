@@ -31,9 +31,9 @@
 <table align="center">
   <tbody>
     <tr align="top">
-      <td width="20%" align="center">
+      <td align="center">
         <span><i><b>HTML5</b><i></span><br><br><br>
-        <img height="70" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <div style="width: 10px; background-color: #fff"><img src="https://cdn.svgporn.com/logos/html-5.svg"></div>
       </td>
       <td width="20%" align="center">
         <span><i><b>CSS3</b><i></span><br><br><br>
