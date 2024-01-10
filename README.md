@@ -18,14 +18,14 @@
 <hr>
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="70%" align="left">
     💻 Desarrollando mis habilidades como Desarrollador Fullstack | Entusiasmado por las nuevas tecnologías <br>
     📝 Tengo un gran interés en crear interfaces de usuario frontend para aplicaciones de aprendizaje automático. <br>
     🌱 Concentrandome en implementar codigo limpio y funcional para lo que realmente se requiera. <br>
     🌟 Lenguajes principales: Javascript y PHP <br> 
     🚩 Interesado en aportar soluciones informáticas a problemas existentes en empresas. <br>
 </td>
-<td width="50%" align="center">
+<td width="30%" align="center">
   <img align="center" alt="Coding" width="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgxZjNobWNhaDFlcmRvNDE1MWcwMmo0bnY3bmZpbWZ0dDI5NHpoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">  
 </td>
 </tr>
