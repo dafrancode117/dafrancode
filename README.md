@@ -1,7 +1,7 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hola 👋, soy Daniel F. Coila Corini</h1>
 <h3 align="center">Desarrollador de Software apasionado por las tecnologías y la evolución de las mismas, especialmente por tecnologías Web y Móvil, también un gusto por la administración de servidores Linux 🐧</h3>
-  <div align = "right">
+  <div align = "center">
     <h3 align="center" style="background: white;">Contacta conmigo:</h3>
     <p align="center">
       <a href="www.linkedin.com/in/daniel-franco-coila-corini-05356a1b6" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="30" width="30" /></a>
@@ -10,7 +10,7 @@
   </div>
 <hr>
 <div align="center">
-  <div align="left">
+  <div align="center">
     <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
   </div>
 </div>
