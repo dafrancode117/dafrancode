@@ -6,6 +6,7 @@
     <p align="center">
       <a href="www.linkedin.com/in/daniel-franco-coila-corini-05356a1b6" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="30" width="30" /></a>
       <a href="https://www.instagram.com/dafran.code/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="kavee_dineth" height="30" width="30" /></a>
+      <a href="mailto:frank117js@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="kavee_dineth" height="30" width="30" /></a>
     </p>
   </div>
 <hr>
@@ -18,11 +19,13 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
-  
-- 💻 Actualmente profundizando en tecnologías de Backend con PHP
-
-- 📧 Como comunicarse conmigo **frank117js@gmail.com**
-
+  <pre>
+    💻 Desarrollando mis habilidades como Desarrollador Fullstack | Entusiasmado por las nuevas tecnologías
+    📝 Tengo un gran interés en crear interfaces de usuario frontend para aplicaciones de aprendizaje automático.
+    🌱 Concentrandome en implementar codigo limpio y funcional para lo que realmente se requiera.
+    🌟 Lenguajes principales: Javascript y PHP
+    🚩 Interesado en aportar soluciones informáticas a problemas existentes en empresas.
+  </pre>
 </td>
 <td width="50%" align="center">
   <img align="center" alt="Coding" width="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgxZjNobWNhaDFlcmRvNDE1MWcwMmo0bnY3bmZpbWZ0dDI5NHpoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">  
