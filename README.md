@@ -1,8 +1,9 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hola 👋, soy Daniel F. Coila Corini</h1>
 <h3 align="center">Desarrollador de Software apasionado por las tecnologías y la evolución de las mismas, especialmente por tecnologías Web y Móvil, también un gusto por la administración de servidores Linux 🐧</h3>
-<img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
+<div border="1">
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+</div>
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
@@ -13,7 +14,7 @@
 
 </td>
 <td width="50%" align="center">
-  <img align="center" alt="Coding" width="450" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgxZjNobWNhaDFlcmRvNDE1MWcwMmo0bnY3bmZpbWZ0dDI5NHpoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">  
+  <img align="center" alt="Coding" width="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgxZjNobWNhaDFlcmRvNDE1MWcwMmo0bnY3bmZpbWZ0dDI5NHpoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">  
 </td>
 </tr>
 </table>
