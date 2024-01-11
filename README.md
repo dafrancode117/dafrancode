@@ -21,8 +21,8 @@
 <td width="70%" align="left">
     💻 Desarrollando mis habilidades como Desarrollador Fullstack | Entusiasmado por las nuevas tecnologías <br>
     📝 Tengo un gran interés en crear interfaces de usuario frontend para aplicaciones de aprendizaje automático. <br>
-    🌱 Concentrandome en implementar codigo limpio y funcional para lo que realmente se requiera. <br>
-    🌟 Lenguajes principales: Javascript y PHP <br> 
+    🌱 Concentrandome en implementar codigo limpio y funcional. <br>
+    🌟 Lenguajes principales: Javascript y PHP. <br> 
     🚩 Interesado en aportar soluciones informáticas a problemas existentes en empresas. <br>
 </td>
 <td width="30%" align="center">
