@@ -1,5 +1,6 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hola 👋, soy Daniel F. Coila Corini</h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Bienvenidos+a+mi+perfil+de+GitHub...!)
 <h3 align="center">Desarrollador de Software apasionado por las tecnologías y la evolución de las mismas, especialmente por tecnologías Web y Móvil, también un gusto por la administración de servidores Linux 🐧</h3>
   <div align = "center">
     <h3 align="center" style="background: white;">Contacta conmigo:</h3>
