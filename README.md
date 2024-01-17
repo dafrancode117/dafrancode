@@ -39,44 +39,44 @@
     <tr align="top">
       <td width="20%" height="64px" align="center">
         <span align="top"><i><b>HTML5</b><i></span><hr>
-        <img width="50" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <img align="both" width="50" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="20%" height="64px" align="center">
         <span align="top"><i><b>CSS3</b><i></span><hr>
-        <img width="50" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <img align="both" width="50" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="20%" height="64px" align="center">
         <span align="top"><i><b>JavaScript</b><i></span><hr>
-        <img width="50" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img align="both" width="50" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="20%" height="64px" align="center">
         <span align="top"><i><b>Bootstrap</b><i></span><hr>
-        <img width="50" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+        <img align="both" width="50" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
       <td width="20%" height="64px" align="center">
         <span align="top"><i><b>TailwindCSS</b><i></span><hr>
-        <img width="50" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+        <img align="both" width="50" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
     </tr>
     <tr align="top">
       <td width="20%" align="center">
-        <span><i><b>VS Code</b><i></span><hr>
+        <span align="top"><i><b>VS Code</b><i></span><hr>
         <img width="50" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="20%" align="center">
-        <span><i><b>Git</b><i></span><hr>
+        <span align="top"><i><b>Git</b><i></span><hr>
         <img width="50" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="20%" align="center">
-        <span><i><b>PHP</b><i></span><hr>
+        <span align="top"><i><b>PHP</b><i></span><hr>
         <img width="50" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
       <td width="20%" align="center">
-        <span><i><b>MySQL</b><i></span><hr>
+        <span align="top"><i><b>MySQL</b><i></span><hr>
         <img width="50" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
       <td width="20%" align="center">
-        <span><i><b>Ubuntu Server</b><i></span><hr>
+        <span align="top"><i><b>Ubuntu Server</b><i></span><hr>
         <img width="50" src="https://cdn.svgporn.com/logos/ubuntu.svg">
       </td>
     </tr>
