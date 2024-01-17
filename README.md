@@ -38,7 +38,7 @@
   <tbody>
     <tr align="top">
       <td width="20%" align="center">
-        <span><i><b>HTML5</b><i></span><br><br><br>
+        <span><i><b>HTML5</b><i></span>
         <img width="50" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="20%" align="center">
