@@ -68,11 +68,11 @@
         <img width="50" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="20%" align="center">
-        <span><i><b>PHP</b><i></span><br><hr>
+        <span><i><b>PHP</b><i></span><br><br>
         <img width="50" src="https://cdn.svgporn.com/logos/php.svg">
       </td>
       <td width="20%" align="center">
-        <span><i><b>MySQL</b><i></span><br><hr>
+        <span><i><b>MySQL</b><i></span><br><br>
         <img width="50" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
       <td width="20%" align="center">
