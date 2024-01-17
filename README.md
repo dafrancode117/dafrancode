@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋, soy Daniel F. Coila Corini</h1>
 <h2 align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=%2303F541&center=true&vCenter=true&lines=Hi%2C+BBBienvenidos+a+mi+perfil+de+Github...!;Desarrollador+de+Software;Entusiasta+Tecnologico)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&color=%2303F541&center=true&vCenter=true&lines=Bienvenidos+a+mi+Github...!;Desarrollador+de+Software;Entusiasta+Tecnologico)](https://git.io/typing-svg)
 
 </h2>
 <h3 align="center">Desarrollador de Software apasionado por las tecnologías y la evolución de las mismas, especialmente por tecnologías Web y Móvil, también un gusto por la administración de servidores Linux 🐧</h3>
