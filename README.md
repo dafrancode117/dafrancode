@@ -37,24 +37,24 @@
 <table align="center">
   <tbody>
     <tr align="top">
-      <td width="20%" height="64px" align="center"><hr>
-        <span><i><b>HTML5</b><i></span>
+      <td width="20%" height="64px" align="center">
+        <span align="top"><i><b>HTML5</b><i></span><hr>
         <img width="50" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="20%" height="64px" align="center">
-        <span><i><b>CSS3</b><i></span><hr>
+        <span align="top"><i><b>CSS3</b><i></span><hr>
         <img width="50" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="20%" height="64px" align="center">
-        <span><i><b>JavaScript</b><i></span><hr>
+        <span align="top"><i><b>JavaScript</b><i></span><hr>
         <img width="50" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="20%" height="64px" align="center">
-        <span><i><b>Bootstrap</b><i></span><hr>
+        <span align="top"><i><b>Bootstrap</b><i></span><hr>
         <img width="50" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
       <td width="20%" height="64px" align="center">
-        <span><i><b>TailwindCSS</b><i></span><hr>
+        <span align="top"><i><b>TailwindCSS</b><i></span><hr>
         <img width="50" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
     </tr>
