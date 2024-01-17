@@ -9,7 +9,7 @@
       <a href="https://www.instagram.com/dafran.code/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="kavee_dineth" height="30" width="30" /></a>
     </p>
   </div>
-<hr>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 <div align="center">
   <div align="center">
     <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
