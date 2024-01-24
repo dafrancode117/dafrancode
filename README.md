@@ -59,7 +59,7 @@
         <img align="both" width="50" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
       <td width="20%" height="64px" align="center">
-        <span align="top"><i><b>TailwindCSS</b><i></span><hr>
+        <span align="top"><i><b>Tailwind CSS</b><i></span><hr>
         <img align="both" width="50" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
       </td>
     </tr>
